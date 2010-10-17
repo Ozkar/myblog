@@ -5,6 +5,7 @@ gem 'sqlite3-ruby', :require => 'sqlite3'
 gem 'haml', '>= 3.0.21'
 gem 'paperclip', '>= 2.3.4'
 gem 'capistrano', '>= 2.5.19'
+gem 'authlogic', '>= 2.1.6'
 
 group :development, :test do
 	gem 'rspec', '>= 2.0.0'
